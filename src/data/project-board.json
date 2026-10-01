@@ -1,0 +1,118 @@
+{
+  "source": "INHOUSE_PROJECT_BOARD1final_1.docx",
+  "supplied": "2026-10-01",
+  "provenance_note": "Project titles, descriptions and photographs transcribed in order from the lab's three-page in-house project board (INHOUSE_PROJECT_BOARD1final_1.docx), supplied for the October 2026 website update. Capitalisation, spacing and obvious typing errors are corrected; wording is otherwise unchanged. The board names no mentors or students. Student names and register numbers handwritten on the E-Bin model are blurred in the website copy of that photograph.",
+  "status": "Completed",
+  "status_note": "The board does not state a status. Its built prototypes are shown as completed, as confirmed for the October 2026 update.",
+  "projects": [
+    {
+      "title": "Automated Kuthuvilakku",
+      "source_title": "Automated Kuthuvilaku",
+      "board_page": 1,
+      "details": [
+        "The Automated Kuthuvilakku is a smart LED-based traditional lamp controlled through a mobile app, offering safe and convenient operation without fire or oil.",
+        "It blends cultural tradition with modern technology, providing an elegant and eco-friendly lighting solution for homes and ceremonies."
+      ],
+      "image": "/images/projects/kuthuvilakku.jpg",
+      "image_alt": "Brass kuthuvilakku lamp fitted with LEDs and wired to a controller, beside a phone showing the lamp's control app",
+      "width": 468,
+      "height": 261
+    },
+    {
+      "title": "Empowering Elderly with Visual Impairments through Intelligent Dispensing Technology",
+      "board_page": 1,
+      "details": [
+        "The project addresses the problem of missed, incorrect, or delayed medication intake among elderly and visually impaired persons due to memory issues, lack of assistance, and complex medication schedules.",
+        "It proposes an automated, biometric-enabled medicine dispensing and monitoring system to ensure timely and accurate medication delivery."
+      ],
+      "image": "/images/projects/medicine-dispenser.jpg",
+      "image_alt": "Grey medicine-dispenser box with a fingerprint sensor and an open lid, wired to a circuit board beside a computer showing code",
+      "width": 738,
+      "height": 437,
+      "image_position": "60% 50%"
+    },
+    {
+      "title": "LumiTalk: Intelligent Voice-Activated IoT Lamp",
+      "board_page": 1,
+      "details": [
+        "LumiTalk is an IoT-based smart lamp system that allows users to control lighting through simple voice commands using voice recognition technology.",
+        "It offers hands-free operation, automatic sleep mode for energy saving, and an efficient smart home lighting solution."
+      ],
+      "image": "/images/projects/lumitalk-lamp.jpg",
+      "image_alt": "White desk-lamp prototype with a round head and hinged arm, on a base carrying a small circuit board and e-Yantra branding",
+      "width": 580,
+      "height": 1280,
+      "image_position": "50% 14%"
+    },
+    {
+      "title": "Gesture-Controlled Robot Using MPU6050",
+      "source_title": "Gesture-controlled robot using MPU6050",
+      "board_page": 2,
+      "details": [
+        "A gesture-controlled robot using the MPU6050 detects hand movements using a gyroscope and accelerometer to wirelessly control the robot's direction.",
+        "The Arduino processes the sensor data and sends commands to the robot, enabling real-time movement such as forward, backward, left, and right."
+      ],
+      "image": "/images/projects/gesture-robot.jpg",
+      "image_alt": "Four-wheeled robot chassis carrying a microcontroller board and an LCD display, wired to a second controller board in the foreground",
+      "width": 423,
+      "height": 250
+    },
+    {
+      "title": "Obstacle Avoidance Robot",
+      "board_page": 2,
+      "details": [
+        "An obstacle avoidance robot uses an ultrasonic sensor to detect objects in its path and measure the distance to obstacles.",
+        "The microcontroller automatically controls the motors to stop, turn, or change direction, allowing the robot to navigate safely without human intervention."
+      ],
+      "image": "/images/projects/obstacle-avoidance-robot.jpg",
+      "image_alt": "Four-wheeled robot chassis with an ultrasonic sensor on a servo at the front, a motor-driver board and a battery holder",
+      "width": 745,
+      "height": 339
+    },
+    {
+      "title": "E-Bin",
+      "board_page": 2,
+      "details": [
+        "An E-Bin (Electronic Smart Dustbin) uses sensors to automatically detect waste and open the lid without physical contact, improving hygiene.",
+        "The system monitors the bin's fill level and can send alerts when it is full, enabling efficient waste collection and management."
+      ],
+      "image": "/images/projects/e-bin.jpg",
+      "image_alt": "E-Bin model with a pipe-mounted sensor and a servo above three coloured bins, wired to a microcontroller board and battery pack",
+      "image_note": "Handwritten student details on the model are blurred.",
+      "width": 759,
+      "height": 477
+    },
+    {
+      "title": "Prosthetic Arm",
+      "same_as": "Affordable Prosthetics Solution for Arm Amputees",
+      "board_page": 3,
+      "details": [
+        "A prosthetic arm is an artificial limb designed to replace a missing or amputated arm and help restore its appearance and/or function."
+      ],
+      "image": "/images/projects/prosthetic-arm.jpg",
+      "image_alt": "Prosthetic hand prototype with wiring and a battery pack, on a desk beside a computer showing code",
+      "width": 736,
+      "height": 461
+    },
+    {
+      "title": "AI Powered Autonomous Poultry Monitoring Rover",
+      "board_page": 3,
+      "details": [
+        "Poultry farms rely on periodic manual health checks, making it difficult to continuously monitor thousands of birds. Sick or stressed birds, environmental problems, and early disease symptoms can go unnoticed between inspections, leading to increased mortality and economic losses."
+      ],
+      "highlights": [
+        ["Autonomous rover", "Continuously patrols poultry cage aisles."],
+        ["AI detection", "Uses a CNN model to identify abnormal bird conditions."],
+        ["Environmental monitoring", "Measures temperature and humidity."],
+        ["Real-time alerts", "Sends detected abnormalities to the farmer."],
+        ["Dashboard", "Logs alerts and health data for review."],
+        ["Edge processing", "Supports on-device/offline AI inference."]
+      ],
+      "image": "/images/projects/poultry-rover.jpg",
+      "image_alt": "Four-wheeled rover with a metal body, a small solar panel on top and a front display, standing in the lab",
+      "width": 594,
+      "height": 789,
+      "image_position": "50% 86%"
+    }
+  ]
+}

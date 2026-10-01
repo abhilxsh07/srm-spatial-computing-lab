@@ -1,0 +1,31 @@
+{
+  "source": "SCL_Lab.docx",
+  "supplied": "2026-10-01",
+  "provenance_note": "Faculty mentor and project title pairs transcribed in order from the lab's project list (SCL_Lab.docx), supplied for the October 2026 website update. Title capitalisation is normalised; three typing errors are corrected ('lightning', 'signature language', 'Chasis'). The original wording is kept in source_title wherever the displayed title differs. A third row for Dr. M. Suganiya has no project title and is not shown.",
+  "status": "Ongoing",
+  "status_note": "The list does not state a status. These projects are shown as ongoing, as confirmed for the October 2026 update.",
+  "projects": [
+    { "mentor": "Dr.J.Kalaivani", "title": "Digital Twin for Indoor Drone Navigation and Autonomous Mission Planning", "source_title": "Digital Twin For Indoor Drone Navigation and Autonomous Mission Planning" },
+    { "mentor": "Dr.V.Angayarkanni", "title": "Multi-modal Student Attention, Engagement and Cognitive Load Analysis Using Computer Vision", "source_title": "Multi-modal Student Attention, Engagement and Cognitive Load Analysis using Computer Vision" },
+    { "mentor": "Dr.V.Angayarkanni", "title": "Smart Door Greeting System", "source_title": "Smart door Greeting System" },
+    { "mentor": "Dr.V.Angayarkanni", "title": "Real-time Fall Detection and Human Risk Assessment Using Pose Estimation", "source_title": "Real-time Fall Detection and Human Risk Assessment using Pose Estimation" },
+    { "mentor": "Dr.V.Angayarkanni", "title": "Battery Health Monitoring with Remaining Useful Life Prediction" },
+    { "mentor": "Dr.V.Angayarkanni", "title": "Smart Medicine Storage with Environmental Monitoring and Medication Compliance Analytics" },
+    { "mentor": "Dr.C.Ashokkumar", "title": "AR-Based IoT Machine Health Monitoring System" },
+    { "mentor": "Dr.P.Rama", "title": "Smart Street Lighting Using Traffic Density Prediction and Adaptive Illumination Control", "source_title": "Smart street lightning using traffic density prediction and adaptive illumination control" },
+    { "mentor": "Dr.P.Rama", "title": "Smart Campus Digital Twin" },
+    { "mentor": "Dr.P.Rama", "title": "AI Based Elderly Assisted Living" },
+    { "mentor": "Dr.P.Rama", "title": "Cold Storage Health Monitoring with Product Shelf-life Prediction", "source_title": "Cold storage Health Monitoring with product Shelf-life prediction" },
+    { "mentor": "Dr.P.Rama", "title": "Vision Based Intrusion Detection with Human Behaviour Analysis", "source_title": "Vision based intrusion detection with human behaviour analysis" },
+    { "mentor": "Dr.P.Rama", "title": "Driver Drowsiness, Fatigue and Distraction Detection Using Multi-modal Vision", "source_title": "Driver Drowsiness, Fatigue and Distraction Detection using Multi-modal Vision" },
+    { "mentor": "Dr Ishwarya K", "title": "Federated Spiking Neural Network Framework for Privacy-Preserving Multi-Label Brain MRI Abnormality Detection" },
+    { "mentor": "Dr. M. Suganiya", "title": "Power Weeder Operated Seed Dispenser" },
+    { "mentor": "Dr. M. Suganiya", "title": "Crop Inspection" },
+    { "mentor": "Dr. Aswini Krishnan", "title": "AI Enabled Predictive Maintenance Platform for Industrial Motors Using Edge IoT", "source_title": "AI enabled predictive maintenance platform for industrial motors using edge IoT" },
+    { "mentor": "Dr. Aswini Krishnan", "title": "Real Time Sign Language Recognition and Speech Generation System", "source_title": "Real time signature language recognition and speech generation system" },
+    { "mentor": "Dr. Dandumahanti Bhanu Priya", "title": "AI-Enabled Under-Chassis Mobile Inspection Robot Using Cloud-Based Neural Networks for Vehicle Fault Detection", "source_title": "AI-Enabled Under-Chasis Mobile Inspection Robot Using Cloud-Based Neural Networks for Vehicle Fault Detection" },
+    { "mentor": "Dr. Dandumahanti Bhanu Priya", "title": "Autonomous Industrial Safety & Compliance Monitoring Bot via Dynamic Environmental Sensing" },
+    { "mentor": "Dr. Dandumahanti Bhanu Priya", "title": "Target-Directed Autonomous Social Intelligent Follow Bot Using Dynamic Feature Tracking" },
+    { "mentor": "Dr. Dandumahanti Bhanu Priya", "title": "AI-Driven Spatial Awareness and Navigational Helmet for the Visually Impaired" }
+  ]
+}

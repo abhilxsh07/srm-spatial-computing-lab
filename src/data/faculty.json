@@ -1,0 +1,18 @@
+{
+  "source": "SCL_Faculty.docx",
+  "supplied": "2026-10-01",
+  "provenance_note": "Names, roles, email addresses and portraits transcribed from the lab's faculty document (SCL_Faculty.docx), supplied for the October 2026 website update. Name spacing normalised and 'Assisstant' corrected to 'Assistant'. Portraits are unaltered apart from trimming thin border lines left by the document layout. Dr. V. S. Bakkialakshmi (listed in the earlier brochure) is not in this list and is no longer shown.",
+  "faculty": [
+    { "name": "Dr. R. I. Minu", "role": "Professor", "email": "minur@srmist.edu.in", "image": "/images/faculty/r-i-minu.jpg", "source_name": "Dr. R.I Minu" },
+    { "name": "Dr. J. Kalaivani", "role": "Associate Professor", "email": "kalaivaj@srmist.edu.in", "image": "/images/faculty/j-kalaivani.jpg" },
+    { "name": "Dr. V. Angayarkanni", "role": "Associate Professor", "email": "angayarv@srmist.edu.in", "image": "/images/faculty/v-angayarkanni.jpg" },
+    { "name": "Dr. M. Suganiya", "role": "Assistant Professor", "email": "suganiym@srmist.edu.in", "image": "/images/faculty/m-suganiya.jpg" },
+    { "name": "Dr. C. Ashok Kumar", "role": "Assistant Professor", "email": "ashokkuc@srmist.edu.in", "image": "/images/faculty/c-ashok-kumar.jpg" },
+    { "name": "Dr. P. Rama", "role": "Assistant Professor", "email": "ramap@srmist.edu.in", "image": "/images/faculty/p-rama.jpg", "source_name": "Dr.P.Rama" },
+    { "name": "Dr. Sujithra J", "role": "Assistant Professor", "email": "sujithrj1@srmist.edu.in", "image": "/images/faculty/sujithra-j.jpg" },
+    { "name": "Dr. Ishwarya K", "role": "Assistant Professor", "email": "ishwaryk3@srmist.edu.in", "image": "/images/faculty/ishwarya-k.jpg", "source_name": "Dr.Ishwarya K" },
+    { "name": "Dr. Ashwini Krishnan", "role": "Assistant Professor", "email": "aswinik1@srmist.edu.in", "image": "/images/faculty/ashwini-krishnan.jpg", "source_name": "Dr.Ashwini Krishnan", "aliases": ["Dr. Aswini Krishnan"] },
+    { "name": "Dr. Dandumahanti Bhanu Priya", "role": "Assistant Professor", "email": "dandumap1@srmist.edu.in", "image": "/images/faculty/dandumahanti-bhanu-priya.jpg" },
+    { "name": "Dr. Rahul Gowtham Poola", "role": "Assistant Professor", "email": "rahulgop@srmist.edu.in", "image": "/images/faculty/rahul-gowtham-poola.jpg" }
+  ]
+}

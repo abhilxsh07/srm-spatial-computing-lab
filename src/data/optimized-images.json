@@ -1,0 +1,58 @@
+{
+  "/images/page-1-image-4-X12.jpg": {
+    "src": "/images/page-1-image-4-X12-922.webp",
+    "srcSet": "/images/page-1-image-4-X12-480.webp 480w, /images/page-1-image-4-X12-922.webp 922w"
+  },
+  "/images/page-1-image-5-X13.jpg": {
+    "src": "/images/page-1-image-5-X13-922.webp",
+    "srcSet": "/images/page-1-image-5-X13-480.webp 480w, /images/page-1-image-5-X13-922.webp 922w"
+  },
+  "/images/page-2-image-17-X35.jpg": {
+    "src": "/images/page-2-image-17-X35-816.webp",
+    "srcSet": "/images/page-2-image-17-X35-480.webp 480w, /images/page-2-image-17-X35-816.webp 816w"
+  },
+  "/images/page-2-image-18-X36.jpg": {
+    "src": "/images/page-2-image-18-X36-816.webp",
+    "srcSet": "/images/page-2-image-18-X36-480.webp 480w, /images/page-2-image-18-X36-816.webp 816w"
+  },
+  "/images/page-2-image-20-X38.jpg": {
+    "src": "/images/page-2-image-20-X38-816.webp",
+    "srcSet": "/images/page-2-image-20-X38-480.webp 480w, /images/page-2-image-20-X38-816.webp 816w"
+  },
+  "/images/page-2-image-23-X41.jpg": {
+    "src": "/images/page-2-image-23-X41-816.webp",
+    "srcSet": "/images/page-2-image-23-X41-480.webp 480w, /images/page-2-image-23-X41-816.webp 816w"
+  },
+  "/images/projects/kuthuvilakku.jpg": {
+    "src": "/images/projects/kuthuvilakku-468.webp",
+    "srcSet": "/images/projects/kuthuvilakku-468.webp 468w"
+  },
+  "/images/projects/medicine-dispenser.jpg": {
+    "src": "/images/projects/medicine-dispenser-738.webp",
+    "srcSet": "/images/projects/medicine-dispenser-480.webp 480w, /images/projects/medicine-dispenser-738.webp 738w"
+  },
+  "/images/projects/lumitalk-lamp.jpg": {
+    "src": "/images/projects/lumitalk-lamp-580.webp",
+    "srcSet": "/images/projects/lumitalk-lamp-480.webp 480w, /images/projects/lumitalk-lamp-580.webp 580w"
+  },
+  "/images/projects/gesture-robot.jpg": {
+    "src": "/images/projects/gesture-robot-423.webp",
+    "srcSet": "/images/projects/gesture-robot-423.webp 423w"
+  },
+  "/images/projects/obstacle-avoidance-robot.jpg": {
+    "src": "/images/projects/obstacle-avoidance-robot-745.webp",
+    "srcSet": "/images/projects/obstacle-avoidance-robot-480.webp 480w, /images/projects/obstacle-avoidance-robot-745.webp 745w"
+  },
+  "/images/projects/e-bin.jpg": {
+    "src": "/images/projects/e-bin-759.webp",
+    "srcSet": "/images/projects/e-bin-480.webp 480w, /images/projects/e-bin-759.webp 759w"
+  },
+  "/images/projects/prosthetic-arm.jpg": {
+    "src": "/images/projects/prosthetic-arm-736.webp",
+    "srcSet": "/images/projects/prosthetic-arm-480.webp 480w, /images/projects/prosthetic-arm-736.webp 736w"
+  },
+  "/images/projects/poultry-rover.jpg": {
+    "src": "/images/projects/poultry-rover-594.webp",
+    "srcSet": "/images/projects/poultry-rover-480.webp 480w, /images/projects/poultry-rover-594.webp 594w"
+  }
+}

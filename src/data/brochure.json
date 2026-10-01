@@ -1,0 +1,390 @@
+{
+  "source": "/lab-brochure.pdf",
+  "page_count": 2,
+  "provenance_note": "All facts transcribed from supplied PDF and visually verified. Current affiliation, project status, contacts and achievements have not been independently verified. Source has no explicit brochure publication date.",
+  "lab": {
+    "name": "Spatial Computing Lab",
+    "room": "TP1510",
+    "department": "Department of Computing Technologies",
+    "school": "School of Computing",
+    "college": "College of Engineering and Technology",
+    "institution": "SRM Institute of Science and Technology",
+    "address": "Kattankulathur - 603203, Chengalpattu District, Tamil Nadu",
+    "inauguration": "November 2023",
+    "focus": [
+      "Embedded Systems",
+      "Internet of Things (IoT)",
+      "Robotics",
+      "Digital Twin"
+    ],
+    "email": "minur@srmist.edu.in",
+    "phone": [
+      "+91 44 27417000"
+    ],
+    "source_page": 1
+  },
+  "faculty": [
+    {
+      "name": "Dr. R. I. Minu",
+      "role": "Professor",
+      "email": "minur@srmist.edu.in",
+      "image": "/images/page-1-image-9-X24.png",
+      "source_page": 1
+    },
+    {
+      "name": "Dr. J. Kalaivani",
+      "role": "Associate Professor",
+      "email": "kalaivaj@srmist.edu.in",
+      "image": "/images/page-1-image-10-X26.png",
+      "source_page": 1
+    },
+    {
+      "name": "Dr. V. Angayarkanni",
+      "role": "Associate Professor",
+      "email": "angayarv@srmist.edu.in",
+      "image": "/images/page-1-image-11-X28.png",
+      "source_page": 1
+    },
+    {
+      "name": "Dr. V. S. Bakkialakshmi",
+      "role": "Assistant Professor",
+      "email": "bakkialv@srmist.edu.in",
+      "image": "/images/page-1-image-12-X30.png",
+      "source_page": 1
+    },
+    {
+      "name": "Dr. M. Suganiya",
+      "role": "Assistant Professor",
+      "email": "suganiym@srmist.edu.in",
+      "image": "/images/page-1-image-13-X32.png",
+      "source_page": 1
+    },
+    {
+      "name": "Dr. C. Ashok Kumar",
+      "role": "Assistant Professor",
+      "email": "ashokkuc@srmist.edu.in",
+      "image": "/images/page-1-image-14-X34.png",
+      "source_page": 1
+    },
+    {
+      "name": "Dr. P. Rama",
+      "role": "Assistant Professor",
+      "email": "ramap@srmist.edu.in",
+      "image": "/images/page-1-image-15-X36.png",
+      "source_page": 1
+    },
+    {
+      "name": "Dr. Ishwarya K",
+      "role": "Assistant Professor",
+      "email": "ishwaryk3@srmist.edu.in",
+      "image": "/images/page-1-image-16-X38.png",
+      "source_page": 1
+    },
+    {
+      "name": "Dr. Ashwini Krishnan",
+      "role": "Assistant Professor",
+      "email": "aswinik1@srmist.edu.in",
+      "image": "/images/page-1-image-17-X40.png",
+      "source_page": 1
+    }
+  ],
+  "projects": [
+    {
+      "title": "Light Automation System with Voice Assistant",
+      "status": "Completed",
+      "mentors": [
+        "Dr. V. Angayarkanni"
+      ],
+      "source_page": 2
+    },
+    {
+      "title": "Automated Attendance and Access Control System",
+      "status": "Completed",
+      "mentors": [
+        "Dr. J. Kalaivani"
+      ],
+      "source_page": 2
+    },
+    {
+      "title": "Security System with Raspberry Pi Cameras and Motion Sensors",
+      "status": "Completed",
+      "mentors": [
+        "Dr. C. Ashok Kumar"
+      ],
+      "source_page": 2
+    },
+    {
+      "title": "Rescue Twin",
+      "status": "Completed",
+      "mentors": [
+        "Dr. R. I. Minu"
+      ],
+      "source_page": 2
+    },
+    {
+      "title": "4 Wheel Line Follower Using Arduino",
+      "status": "Completed",
+      "mentors": [
+        "Dr. J. Kalaivani",
+        "Dr. V. Angayarkanni"
+      ],
+      "source_page": 2
+    },
+    {
+      "title": "Real Time Synergy of Traffic Data Using Digital Twin",
+      "status": "Ongoing",
+      "mentors": [
+        "Dr. R. I. Minu"
+      ],
+      "source_page": 2
+    },
+    {
+      "title": "Automated Kuthuvilakku",
+      "status": "Ongoing",
+      "mentors": [
+        "Dr. V. Angayarkanni"
+      ],
+      "source_page": 2
+    },
+    {
+      "title": "LumiTalk: Intelligent Voice-Activated IoT Lamp",
+      "status": "Ongoing",
+      "mentors": [
+        "Dr. J. Kalaivani"
+      ],
+      "source_page": 2
+    },
+    {
+      "title": "Robotics Arm Using Arduino Uno",
+      "status": "Ongoing",
+      "mentors": [
+        "Dr. J. Kalaivani"
+      ],
+      "source_page": 2
+    },
+    {
+      "title": "Affordable Prosthetics Solution for Arm Amputees",
+      "status": "Ongoing",
+      "mentors": [
+        "Dr. V. Angayarkanni"
+      ],
+      "source_page": 2
+    },
+    {
+      "title": "Halohud",
+      "status": "Ongoing",
+      "mentors": [
+        "Dr. R. I. Minu",
+        "Dr. V. Angayarkanni"
+      ],
+      "source_page": 2
+    },
+    {
+      "title": "Circuitverse",
+      "status": "Ongoing",
+      "mentors": [
+        "Dr. V. Angayarkanni"
+      ],
+      "source_page": 2
+    }
+  ],
+  "equipment": [
+    "Fire Bird V ATmega2560 ESP8266 (one bullet in PDF; hardware grouping ambiguous)",
+    "ESP32 development board",
+    "LPC2148 development board",
+    "ATmega2560 development board",
+    "P89V51RD2 development board",
+    "Raspberry Pi 3 Model B+",
+    "Altera Cyclone IV FPGA DE0-Nano",
+    "STM32 Nucleo boards",
+    "Tiva Launchpad"
+  ],
+  "course": {
+    "code": "21CSE202T",
+    "name": "Digital Transformations in Smart Energy Systems",
+    "topics": [
+      "IoT",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Cloud Computing",
+      "Sensors",
+      "Big-data Analytics",
+      "Communication Networks"
+    ],
+    "purpose": "Improve the efficiency and intelligence of energy generation, distribution and consumption.",
+    "source_page": 2
+  },
+  "assets": [
+    {
+      "path": "/images/page-1-image-4-X12.jpg",
+      "usage": "hero/lab",
+      "description": "Electronics development boards and robotics equipment arranged on a lab worktable",
+      "source_page": 1,
+      "width": 922,
+      "height": 692,
+      "confidence": "High; visual subject clear"
+    },
+    {
+      "path": "/images/page-1-image-5-X13.jpg",
+      "usage": "hero/lab",
+      "description": "Lab interior with workstations and equipment table",
+      "source_page": 1,
+      "width": 922,
+      "height": 692,
+      "confidence": "High; visual subject clear"
+    },
+    {
+      "path": "/images/page-2-image-17-X35.jpg",
+      "usage": "gallery",
+      "description": "Students working at an electronics bench with a laptop",
+      "source_page": 2,
+      "width": 816,
+      "height": 615,
+      "confidence": "High; individual names not established"
+    },
+    {
+      "path": "/images/page-2-image-18-X36.jpg",
+      "usage": "gallery",
+      "description": "Student at a coding workstation",
+      "source_page": 2,
+      "width": 816,
+      "height": 615,
+      "confidence": "High; individual name not established"
+    },
+    {
+      "path": "/images/page-2-image-23-X41.jpg",
+      "usage": "gallery",
+      "description": "Students working with electronics and laptops",
+      "source_page": 2,
+      "width": 816,
+      "height": 615,
+      "confidence": "High; individual names not established"
+    },
+    {
+      "path": "/images/page-2-image-20-X38.jpg",
+      "usage": "gallery",
+      "description": "Group discussion in the lab",
+      "source_page": 2,
+      "width": 816,
+      "height": 615,
+      "confidence": "High; event and names not established"
+    },
+    {
+      "path": "/images/page-2-image-3-X10.jpg",
+      "usage": "gallery",
+      "description": "Faculty and students in the laboratory",
+      "source_page": 2,
+      "width": 816,
+      "height": 615,
+      "confidence": "High; event not established"
+    },
+    {
+      "path": "/images/page-2-image-6-X17.png",
+      "usage": "equipment",
+      "description": "Robots and lab equipment on a worktable",
+      "source_page": 2,
+      "width": 457,
+      "height": 211,
+      "confidence": "High"
+    },
+    {
+      "path": "/images/page-2-image-5-X15.png",
+      "usage": "equipment",
+      "description": "Close view of the Fire Bird robotics platform",
+      "source_page": 2,
+      "width": 184,
+      "height": 177,
+      "confidence": "Medium; matches equipment context, low resolution"
+    },
+    {
+      "path": "/images/page-2-image-7-X19.png",
+      "usage": "equipment",
+      "description": "Two robotics platforms on a laboratory table",
+      "source_page": 2,
+      "width": 271,
+      "height": 177,
+      "confidence": "High; low resolution"
+    },
+    {
+      "path": "/images/page-2-image-13-X30.jpg",
+      "usage": "project",
+      "description": "Prototype white desk lamp with e-Yantra base",
+      "source_page": 2,
+      "width": 174,
+      "height": 384,
+      "confidence": "High visual; association with LumiTalk inferred from project list and context"
+    },
+    {
+      "path": "/images/page-2-image-11-X27.png",
+      "usage": "project",
+      "description": "Person wearing helmet with electronics/display attached",
+      "source_page": 2,
+      "width": 253,
+      "height": 146,
+      "confidence": "High visual; association with Halohud inferred from context"
+    },
+    {
+      "path": "/images/page-2-image-12-X29.png",
+      "usage": "project",
+      "description": "Brass ceremonial lamp with electronics on worktable",
+      "source_page": 2,
+      "width": 188,
+      "height": 105,
+      "confidence": "High visual; association with Automated Kuthuvilakku inferred from context"
+    },
+    {
+      "path": "/images/page-2-image-14-X31.png",
+      "usage": "project",
+      "description": "3D simulation of a robotic vehicle",
+      "source_page": 2,
+      "width": 165,
+      "height": 103,
+      "confidence": "High visual; association with Rescue Twin inferred from context"
+    },
+    {
+      "path": "/images/page-1-image-1-X5.png",
+      "usage": "logo",
+      "description": "SRM Institute of Science and Technology logo",
+      "source_page": 1,
+      "width": 400,
+      "height": 135,
+      "confidence": "High"
+    },
+    {
+      "path": "/images/page-1-image-2-X8.png",
+      "usage": "logo",
+      "description": "School of Computing logo",
+      "source_page": 1,
+      "width": 370,
+      "height": 169,
+      "confidence": "High"
+    },
+    {
+      "path": "/images/page-1-image-3-X10.png",
+      "usage": "logo",
+      "description": "Department of Computing Technologies CTECH logo",
+      "source_page": 1,
+      "width": 702,
+      "height": 496,
+      "confidence": "High"
+    },
+    {
+      "path": "/images/page-1-image-6-X16.png",
+      "usage": "logo",
+      "description": "IIT Bombay e-Yantra logo",
+      "source_page": 1,
+      "width": 383,
+      "height": 114,
+      "confidence": "High"
+    },
+    {
+      "path": "/images/page-1-image-28-X66.png",
+      "usage": "logo",
+      "description": "Spatial Computing Lab SCL logo",
+      "source_page": 1,
+      "width": 150,
+      "height": 150,
+      "confidence": "High"
+    }
+  ]
+}
